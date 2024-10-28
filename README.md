@@ -29,7 +29,7 @@ All of the following repositories must be cloned into the same folder as this re
 
 
 
-1. clone this repo
+1. Clone this repo
 1. Open it in vscode (or your favorite IDE)
 2. Create a .env.dev.local file under dpi-platform repository with the following content:
 ```
@@ -73,7 +73,7 @@ We should avoid configuration drifts
 
 ## Who do I talk to? ##
 
-* JadenX Opration Team (operations@jadenx.com)
+* JadenX Operation Team (operations@jadenx.com)
 
 
 
